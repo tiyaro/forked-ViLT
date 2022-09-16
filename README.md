@@ -1,5 +1,9 @@
 # ViLT
 
+<p>
+<a href="https://console.tiyaro.ai/explore/dandelin-vilt-b32-finetuned-vqa-2417764"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 Code for the ICML 2021 (long talk) paper: "[ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/abs/2102.03334)"
 
 ---
